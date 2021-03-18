@@ -26,6 +26,7 @@ Nice view of Kastellet
 A park in the shape of a five-pointed star. There are very few people here in theearly morning, and only some local residents running here.
 
 ![503](../assets/images/IMG_9386.jpeg)
+
 ![504](../assets/images/IMG_9387.jpeg)
 
 #### Sculpture near the park
@@ -39,7 +40,7 @@ Denmark is a country that pays great attention to environmental protection. Such
 
 #### Finally! Came to the Little Mermaid's side
 
-![504](../assets/images/IMG_9408.jpeg)
+![507](../assets/images/IMG_9408.jpeg)
 
 #### Do you know there is another little mermaid?
 It is the Genetically Modified Little Mermaid by Björn Nörgaard. Its form is relatively abstract, but full of artistic sense. It is not far from the Little Mermaid statue, don't miss it!
