@@ -35,9 +35,14 @@ Denmark is a country that pays great attention to environmental protection. Such
 
 #### The nice view of Langelinie Pavillonen
 
-![506](../assets/images/IMG_9393.jpeg)
+![506](../assets/images/IMG_9401.jpeg)
 
-#### On the way to the Little Mermaid statue
+#### Finally! Came to the little mermaid's side
+
+![504](../assets/images/IMG_9408.jpeg)
+
+#### Do you know there is another little mermaid?
+It is the Genetically Modified Little Mermaid by Björn Nörgaard. Its form is relatively abstract, but full of artistic sense. It is not far from the Little Mermaid statue, don't miss it!
 
 
 
