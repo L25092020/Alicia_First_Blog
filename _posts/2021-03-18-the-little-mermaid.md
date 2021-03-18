@@ -9,8 +9,7 @@ featured: true
 **Text: Alicia**  
 **Picture: Alicia**  
 
-> 哇！好有趣的一群灵魂！
->         --- 这是来自2017成都站的小姐姐的感想
+> Denmark, a magical fairy tale kingdom
 
 _2017.10.29_
 最早知道Girls Coding Day这个活动是远在上海的小伙伴特意推给我的，叫我一定一定一定要参加！果然，现在距离活动完满结束已经过去好几天了，我仍旧处在一种特别兴奋的状态里。  
