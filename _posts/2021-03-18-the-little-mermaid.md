@@ -2,7 +2,6 @@
 layout: post
 title:  "The Little Mermaid"
 image: assets/images/IMG_9399.jpeg
-featured: true
 ---
 
 # Merry Christmas
