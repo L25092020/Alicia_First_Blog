@@ -26,4 +26,11 @@ Nice view of Kastellet
 A park in the shape of a five-pointed star. There are very few people here in theearly morning, and only some local residents running here.
 
 ![503](../assets/images/IMG_9386.jpeg)
+![504](../assets/images/IMG_9387.jpeg)
 
+#### Sculpture near the park
+Denmark is a country that pays great attention to environmental protection. Such sculptures are made of waste metal materials, which also convey the environmental protection concept of waste utilization.
+
+![504](../assets/images/IMG_9388.jpeg)
+
+#### The nice view of Langelinie Pavillonen
