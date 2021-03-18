@@ -13,7 +13,7 @@ featured: true
 
 _2021.03.18_
 > On Christmas 2019, I came to Denmark, which I have always wanted to visit.
-Copenhagen is also one of the European cities I want to visit most.
+Copenhagen is also one of the European cities I want to visit most. Here, the little mermaid statue can be regarded as Copenhagen's business card.
 
 ![501](../assets/images/501.jpg)
 
