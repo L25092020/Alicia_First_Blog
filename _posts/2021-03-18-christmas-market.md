@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Christmas Market in Copenhagen"
-image: assets/images/IMG_9399.jpeg
+image: assets/images/IMG_9329.jpeg
 featured: true
 ---
 
@@ -21,14 +21,12 @@ Copenhagen is also one of the European cities I want to visit most. Here, the li
 
 ![502](../assets/images/IMG_9327.jpeg)
 
-![503](../assets/images/IMG_9329.jpeg)
+![503](../assets/images/IMG_9331.jpeg)
 
-![504](../assets/images/IMG_9331.jpeg)
+![504](../assets/images/IMG_9332.jpeg)
 
-![505](../assets/images/IMG_9332.jpeg)
+![505](../assets/images/IMG_9334.jpeg)
 
-![506](../assets/images/IMG_9334.jpeg)
+![506](../assets/images/IMG_9336.jpeg)
 
-![507](../assets/images/IMG_9336.jpeg)
-
-![508](../assets/images/IMG_9337.jpeg)
+![507](../assets/images/IMG_9337.jpeg)
