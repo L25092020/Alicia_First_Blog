@@ -9,12 +9,11 @@ featured: true
 **Text: Alicia**  
 **Picture: Alicia**  
 
-> Denmark, a magical fairy tale kingdom
+> Denmark, a magical fairy tale kingdom!
 
-_2017.10.29_
-最早知道Girls Coding Day这个活动是远在上海的小伙伴特意推给我的，叫我一定一定一定要参加！果然，现在距离活动完满结束已经过去好几天了，我仍旧处在一种特别兴奋的状态里。  
-
-感觉自己特别特别幸运，认识了一群有趣的充满向上心，一群自我驱动力超强的小伙伴，打开了一扇新世界的大门。  
+_2021.03.18_
+On Christmas 2019, I came to Denmark, which I have always wanted to visit.
+Copenhagen is also one of the European cities I want to visit most.
 
 ![501](../assets/images/501.jpg)
 
