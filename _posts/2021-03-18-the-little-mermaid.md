@@ -12,7 +12,7 @@ featured: true
 > Denmark, a magical fairy tale kingdom!
 
 _2021.03.18_
-On Christmas 2019, I came to Denmark, which I have always wanted to visit.
+> On Christmas 2019, I came to Denmark, which I have always wanted to visit.
 Copenhagen is also one of the European cities I want to visit most.
 
 ![501](../assets/images/501.jpg)
