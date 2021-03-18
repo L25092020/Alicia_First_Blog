@@ -31,6 +31,20 @@ A park in the shape of a five-pointed star. There are very few people here in th
 #### Sculpture near the park
 Denmark is a country that pays great attention to environmental protection. Such sculptures are made of waste metal materials, which also convey the environmental protection concept of waste utilization.
 
-![504](../assets/images/IMG_9388.jpeg)
+![505](../assets/images/IMG_9388.jpeg)
 
 #### The nice view of Langelinie Pavillonen
+
+![506](../assets/images/IMG_9393.jpeg)
+
+#### On the way to the Little Mermaid statue
+
+
+
+
+
+
+
+
+
+
