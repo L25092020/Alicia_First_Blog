@@ -2,7 +2,6 @@
 layout: post
 title:  "Christmas Market in Copenhagen"
 image: assets/images/IMG_9329.jpeg
-featured: true
 ---
 
 # Merry Christmas
