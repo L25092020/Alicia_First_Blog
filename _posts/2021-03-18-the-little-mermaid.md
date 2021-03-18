@@ -37,7 +37,7 @@ Denmark is a country that pays great attention to environmental protection. Such
 
 ![506](../assets/images/IMG_9401.jpeg)
 
-#### Finally! Came to the little mermaid's side
+#### Finally! Came to the Little Mermaid's side
 
 ![504](../assets/images/IMG_9408.jpeg)
 
