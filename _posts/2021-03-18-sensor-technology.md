@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How the image sensor works?"
-image: assets/images/IMG_005.jpg
+image: assets/images/IMG_006.jpg
 featured: true
 ---
 
@@ -13,7 +13,7 @@ featured: true
 
 _2021.03.18_
 > In the field of engineering and technology, the proportion of female engineers is much smaller than that of men, which is a problem of globalization.
-![501](../assets/images/IMG_006.jpg)
+![501](../assets/images/IMG_005.jpg)
 > Image source: http://info.xitek.com/slide/201209/19-101726_2.html
 
 #### What is sensing technology?
@@ -23,6 +23,8 @@ The sensor can perceive the surrounding environment, such as temperature, ultrav
 #### What are the uses of image sensors?
 Image sensor is a functional type of many sensors, mainly used for the recognition and processing of environmental imaging. There are many common image sensors in life, such as digital cameras, rearview cameras, etc. With the development of digital products, the pixels of digital cameras commonly used in our lives are gradually increasing, from hundreds of thousands of pixels in the past to millions of pixels now.
 In industrial production and scientific research, we often use image sensors to measure faster substances. For example, we often use high-speed cameras to measure the trajectory and speed of particles in gases, liquids and solids.
+
+![502](../assets/images/CMOS sensor.jpg)
 
 #### What are the types of image sensors?
 Image sensors currently used are mainly divided into CCD (charge coupled device image sensor), CMOS (complementary metal oxide semiconductor image sensor) and CIS (contact image sensor), of which CCD and CMOS are the most commonly used. CCD sensor is a kind of image sensor developed earlier, and CMOS sensor is a technology with a number of superior performance developed at the beginning of this century.
