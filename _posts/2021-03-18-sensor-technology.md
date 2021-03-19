@@ -13,7 +13,9 @@ featured: true
 
 _2021.03.18_
 > In the field of engineering and technology, the proportion of female engineers is much smaller than that of men, which is a problem of globalization.
+
 ![501](../assets/images/IMG_005.jpg)
+
 > Image source: http://info.xitek.com/slide/201209/19-101726_2.html
 
 #### What is sensing technology?
