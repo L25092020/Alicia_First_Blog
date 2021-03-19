@@ -26,8 +26,6 @@ The sensor can perceive the surrounding environment, such as temperature, ultrav
 Image sensor is a functional type of many sensors, mainly used for the recognition and processing of environmental imaging. There are many common image sensors in life, such as digital cameras, rearview cameras, etc. With the development of digital products, the pixels of digital cameras commonly used in our lives are gradually increasing, from hundreds of thousands of pixels in the past to millions of pixels now.
 In industrial production and scientific research, we often use image sensors to measure faster substances. For example, we often use high-speed cameras to measure the trajectory and speed of particles in gases, liquids and solids.
 
-![502](../assets/images/CMOS sensor.jpg)
-
 #### What are the types of image sensors?
 Image sensors currently used are mainly divided into CCD (charge coupled device image sensor), CMOS (complementary metal oxide semiconductor image sensor) and CIS (contact image sensor), of which CCD and CMOS are the most commonly used. CCD sensor is a kind of image sensor developed earlier, and CMOS sensor is a technology with a number of superior performance developed at the beginning of this century.
 
