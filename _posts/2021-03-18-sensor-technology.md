@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How the image sensor works?"
-image: assets/images/IMG_006.jpg
+image: assets/images/220px-CCD_SONY_ICX493AQA_sensor_side.jpg
 featured: true
 ---
 
